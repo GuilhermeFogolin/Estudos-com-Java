@@ -1,4 +1,4 @@
-package exHeranca;
+package aulaPOO.exHeranca;
 
 public class Fornecedor extends Pessoa{
 	

@@ -1,4 +1,4 @@
-package Static;
+package aulaPOO.Static;
 
 public class ComStatic {
 	

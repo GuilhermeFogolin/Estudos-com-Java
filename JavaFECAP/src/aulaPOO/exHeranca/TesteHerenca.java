@@ -1,5 +1,4 @@
-package exHeranca;
-
+package aulaPOO.exHeranca;
 import java.util.Scanner;
 
 public class TesteHerenca {

@@ -1,4 +1,4 @@
-package heranca;
+package aulaPOO.heranca;
 
 import java.util.Scanner;
 

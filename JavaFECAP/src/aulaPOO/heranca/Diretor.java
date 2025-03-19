@@ -1,4 +1,4 @@
-package heranca;
+package aulaPOO.heranca;
 
 public class Diretor extends Funcionario {
 	
