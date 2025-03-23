@@ -1,4 +1,4 @@
-package Associação;
+/*package Associação;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -13,3 +13,4 @@ public class Pessoa {
 		this.enderecos = new ArrayList<>();
 	}
 }
+*/

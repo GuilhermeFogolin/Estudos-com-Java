@@ -6,7 +6,7 @@ public class TesteCursoProfessor {
 
 	public static void main(String[] args) {
 		
-		Scanner sc = new Scanner(System.im);
+		Scanner sc = new Scanner(System.in);
 
 	}
 

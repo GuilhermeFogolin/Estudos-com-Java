@@ -1,4 +1,4 @@
-package Associação;
+/* package Associação;
 
 public class Endereco extends Pessoa {
 	
@@ -25,12 +25,13 @@ public class Endereco extends Pessoa {
 		this.estado = estado;
 	}
 	
-	public Endereco() {
+	//public Endereco() {
 		// VER NOS SLIDES O QUE PODE ESTAR ERRADO!
-	}
+	//} 
 
 	public void mostrarInfo() {
 		System.out.println("Rua: " + rua + "\nCidade: " + cidade + "\nEstado: " + estado);
 	}
 
 }
+*/
