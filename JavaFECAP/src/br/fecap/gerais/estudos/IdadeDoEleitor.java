@@ -1,4 +1,4 @@
-package EstudosGerais;
+package br.fecap.gerais.estudos;
 
 import java.util.Scanner;
 

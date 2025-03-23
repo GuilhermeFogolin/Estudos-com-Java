@@ -1,8 +1,8 @@
-package EstudosGerais;
+package br.fecap.gerais.estudos;
 
 import java.util.Scanner;
 
-public class TipoCombustivelIF {
+public class TipoCombustivelCase {
 
 	public static void main(String[] args) {
 		
@@ -22,19 +22,26 @@ public class TipoCombustivelIF {
 		System.out.print("Quantos litros? ");
 		double litros = sc.nextDouble();
 		
-		escolha = escolha.toUpperCase();
+		switch(escolha) {
 		
-		if(escolha.equals("A")) {
+		case "A":
 			total = alcool * litros;
-		} else if (escolha.equals("D")) {
+			System.out.printf("\nO valor total é R$%.2f.", total);
+			break;
+			
+		case "D":
 			total = diesel * litros;
-		} else if (escolha.equals("G")) {
+			System.out.printf("\nO valor total é R$%.2f.", total);
+			break;
+			
+		case "G":
 			total = gasolina * litros;
-		} else {
-			System.out.print("Escolha incorreta. Não há essa opção no menu!");
+			System.out.printf("\nO valor total é R$%.2f.", total);
+			break;
+			
+		default:
+			System.out.print("Não há essa opção no menu. Tente novamente!");
 		}
-		
-		System.out.printf("O total a ser pago é R$%.2f.", total);
 
 	}
 
