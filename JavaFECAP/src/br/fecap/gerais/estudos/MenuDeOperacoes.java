@@ -13,7 +13,7 @@ public class MenuDeOperacoes {
 		double prod = 0;
 		
 		System.out.println("1 - Média entre os dois números"
-				+ "\n2 - Diferença dos númerosr"
+				+ "\n2 - Diferença dos números"
 				+ "\n3 - O produto entre os dois números");
 		
 		System.out.print("Qual opção você precisa: ");
