@@ -4,10 +4,10 @@ public class ImprimirVinteVezes {
 	
 	public static void main(String[] args) {
 		
-		int cont = 0;
+		int cont = 1;
 	
-		while(cont < 20) {
-			System.out.println("Estudos com Java!");
+		while(cont <= 20) {
+			System.out.println(cont + "- Estudos com Java!");
 			cont += 1;
 		}
 	
