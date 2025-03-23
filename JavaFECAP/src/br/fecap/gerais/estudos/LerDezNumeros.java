@@ -24,6 +24,8 @@ public class LerDezNumeros {
 		}
 		
 		System.out.printf("\nO total da soma vale %.2f.", soma);
+		
+		sc.close();
 
 	}
 
