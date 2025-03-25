@@ -25,8 +25,5 @@ public class Carro01Teste {
 		
 		
 		sc.close();
-		
-
 	}
-
 }
