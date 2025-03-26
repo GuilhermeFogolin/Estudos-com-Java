@@ -9,4 +9,10 @@ public class Heranca01_Pessoa {
 	char sexo;
 	
 	public Heranca01_Pessoa() {}
+	
+	public void imprimir() {
+		System.out.printf("\nNome: %s"
+				+ "\nTelefone: %s"
+				+ "\nSexo: %c", nome, telefone, sexo);
+	}
 }
