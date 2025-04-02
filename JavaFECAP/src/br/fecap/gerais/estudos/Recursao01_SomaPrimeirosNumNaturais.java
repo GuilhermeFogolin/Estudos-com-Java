@@ -14,6 +14,7 @@ public class Recursao01_SomaPrimeirosNumNaturais {
 		int resultado = SomaPrimeirosNumNaturais(n);
 		
 		System.out.print("A soma dos primeiros números de " + n + " vale: " + resultado + "!");
+		
 		sc.close();
 	}
 	
