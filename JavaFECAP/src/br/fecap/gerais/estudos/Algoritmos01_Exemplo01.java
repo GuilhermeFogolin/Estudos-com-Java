@@ -20,4 +20,4 @@ public class Algoritmos01_Exemplo01 {
 	}
 }
 
-// Se o n recebe 7, quais linha são executavas e quantas operações? Contar as linhas que são executadas. 
+// Se o n recebe 7, quais linha são executadas e quantas operações? Contar as linhas que são executadas. 
