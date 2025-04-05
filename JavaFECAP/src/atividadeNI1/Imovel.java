@@ -2,6 +2,8 @@ package atividadeNI1;
 
 public abstract class Imovel {
 
+	// Variáveis a serem usadas por todas as subclasses
+	
 	private double tamanho;
 	private Localizacao localizacao;
 	
@@ -22,7 +24,7 @@ public abstract class Imovel {
 		this.localizacao = localizacao;
 	} 
 	
-	// Método para ser implementado
+	// Método para ser implementado pelas subclasses
 	
 	public abstract double calcularTaxaManutencao(); 
 

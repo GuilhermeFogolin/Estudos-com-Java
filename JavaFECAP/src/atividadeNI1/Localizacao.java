@@ -2,6 +2,8 @@ package atividadeNI1;
 
 public class Localizacao {
 	
+	// Variáveis de localização
+	
 	private String rua;
 	private String numero;
 	private String cidade;

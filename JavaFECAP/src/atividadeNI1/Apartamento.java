@@ -2,17 +2,15 @@ package atividadeNI1;
 
 public class Apartamento extends Imovel implements Manutencao {
 
+	// Varuiável
+	
 	private int andar;
 	
 	// Métodos de acesso
 
-	public int getAndar() {
-		return andar;
-	}
+	public int getAndar() { return andar; }
 
-	public void setAndar(int andar) {
-		this.andar = andar;
-	}
+	public void setAndar(int andar) { this.andar = andar; }
 	
 	// Construtor
 	
@@ -21,7 +19,7 @@ public class Apartamento extends Imovel implements Manutencao {
 		this.andar = andar;
 	}
 	
-	// Implementando o método
+	// Implementando o método da superclasse
 	
 	@Override
 	public double calcularTaxaManutencao() {
