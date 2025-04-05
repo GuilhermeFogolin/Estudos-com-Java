@@ -10,7 +10,7 @@ public class Testes {
 		
 		// Casa
 
-		System.out.print("Digite o tamaho (em m²): ");
+		System.out.print("Digite o tamanho (em m²): ");
 		double tamanhoC = sc.nextDouble();
 		sc.nextLine();
 		
@@ -43,6 +43,42 @@ public class Testes {
 				+ "\nTaxa de manutenção: R$%.2f", 
 				casa.getTamanho(), localizacaoC.getRua(), localizacaoC.getNumero(), localizacaoC.getCidade(), casa.getNumeroDeQuartos(), casa.calcularTaxaManutencao());
 	
+		
+		// Apartamento
+		
+		System.out.print("\n\nDigite o tamanho (em m²): ");
+		double tamanhoAp = sc.nextDouble();
+		sc.nextLine();
+		
+		System.out.print("Digite a rua: ");
+		String ruaAp = sc.nextLine();
+		
+		System.out.print("Digite o número: ");
+		String numAp = sc.nextLine();
+		
+		System.out.print("Digite a cidade: ");
+		String cidadeAp = sc.nextLine();
+		
+		System.out.print("Digite o andar: ");
+		int andar = sc.nextInt(); 
+
+		// Apartamento e Localização:
+		
+		Localizacao localizacaoAp = new Localizacao(ruaAp, numAp, cidadeAp);
+		
+		Apartamento ap = new Apartamento(tamanhoAp, localizacaoAp, andar);
+		
+		// Apartamento: Informações
+		
+				System.out.printf("\n=== Informações do apartamento ==="
+						+ "\nTamanho: %.2f m²"
+						+ "\nRua: %s"
+						+ "\nNúmero: %s"
+						+ "\nCidade: %s"
+						+ "\nAndar: %d°"
+						+ "\nTaxa de manutenção: R$%.2f", 
+						ap.getTamanho(), localizacaoAp.getRua(), localizacaoAp.getNumero(), localizacaoAp.getCidade(), ap.getAndar(), ap.calcularTaxaManutencao());
+			
 		sc.close();
 		
 	}

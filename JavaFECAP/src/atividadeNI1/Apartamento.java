@@ -3,6 +3,8 @@ package atividadeNI1;
 public class Apartamento extends Imovel implements Manutencao {
 
 	private int andar;
+	
+	// Métodos de acesso
 
 	public int getAndar() {
 		return andar;
