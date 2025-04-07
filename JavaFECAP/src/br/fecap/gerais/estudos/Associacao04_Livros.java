@@ -1,10 +1,10 @@
 package br.fecap.gerais.estudos;
 
-public class Associacao03_Livros {
+public class Associacao04_Livros {
 	
 	private String titulo;
 	private String autor;
-	private String anoPublicacao;
+	private int anoPublicacao;
 	
 	public String getTitulo() {
 		return titulo;
@@ -18,13 +18,18 @@ public class Associacao03_Livros {
 	public void setAutor(String autor) {
 		this.autor = autor;
 	}
-	public String getAnoPublicacao() {
+	public int getAnoPublicacao() {
 		return anoPublicacao;
 	}
-	public void setAnoPublicacao(String anoPublicacao) {
+	public void setAnoPublicacao(int anoPublicacao) {
+		this.anoPublicacao = anoPublicacao;
+	}	
+	
+	// Construtor
+	
+	public Associacao04_Livros(String titulo, String autor, int anoPublicacao) {
+		this.titulo = titulo;
+		this.autor = autor;
 		this.anoPublicacao = anoPublicacao;
 	}
-	
-
-	
 }
