@@ -20,5 +20,4 @@ public class Heranca03_Funcionario_Gerente extends Heranca03_Funcionario {
 		return salarioBase + bonusMensal;
 	}
 	
-	
 }

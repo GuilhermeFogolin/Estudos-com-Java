@@ -5,6 +5,7 @@ public class Heranca03_Funcionario_Diretor extends Heranca03_Funcionario{
 	// Atributos
 	
 	protected double percentualLucros;
+	private double lucroEmpresa;
 	
 	// Construtor
 	
@@ -15,12 +16,12 @@ public class Heranca03_Funcionario_Diretor extends Heranca03_Funcionario{
 	
 	// Métodos
 	
-	public double setLucroEmpresa(double lucro) {
-		return lucro;
+	public void setLucroEmpresa(double lucro) {
+		this.lucroEmpresa = lucro;
 	}
 	
 	@Override
 	public double calcularSalarioFinal() {
-		return salarioBase + (setLucroEmpresa(0) * percentualLucros);
+		return salarioBase + (lucroEmpresa * percentualLucros);
 	}	
 }
