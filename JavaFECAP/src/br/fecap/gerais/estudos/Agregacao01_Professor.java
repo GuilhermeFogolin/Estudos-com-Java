@@ -1,6 +1,6 @@
 package br.fecap.gerais.estudos;
 
-public class Agregacao_Professor {
+public class Agregacao01_Professor {
 	
 	// Atributos
 	
@@ -26,10 +26,16 @@ public class Agregacao_Professor {
 		this.especialidade = especialidade;
 	}
 	
+	// Construtor
+	
+	public Agregacao01_Professor(String professor, String especialidade) {
+		this.professor = professor;
+		this.especialidade = especialidade;
+	}
+	
 	// Imprimindo dados do professor
 	
 	public String getDescricao() {
 		return "\nNome: " + professor + "\nEspecialidade: " + especialidade;
 	}
-
 }
