@@ -1,6 +1,6 @@
 package br.fecap.gerais.estudos;
 
-public abstract class Associacao07_Funcionario {
+public abstract class Associacao07_Funcionario implements Associacao07_Impressao {
 
 	// Atributos
 	
