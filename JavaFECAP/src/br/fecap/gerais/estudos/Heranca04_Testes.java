@@ -63,7 +63,7 @@ public class Heranca04_Testes {
 		Heranca04_Caminhao cam = new Heranca04_Caminhao(modeloCam, capacidadeCam, custo);
 		
 		System.out.println(cam.getDescricao());
-		System.out.printf("O custo total da viagem é: R$%.2f", cam.calcularCustoViagem(distanciaCam);
+		System.out.printf("O custo total da viagem é: R$%.2f", cam.calcularCustoViagem(distanciaCam));
 		
 		sc.close();
 
