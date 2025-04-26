@@ -1,4 +1,4 @@
-/* package Associação;
+/*package Associação;
 
 public class Endereco extends Pessoa {
 	

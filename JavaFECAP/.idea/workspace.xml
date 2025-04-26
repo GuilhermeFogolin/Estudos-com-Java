@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9b51ddb0-05ca-4bfd-a2c5-43bcd1a854f5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Estudos-com-Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AulaPOO.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Associação/Curso.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Associação/Curso.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Associação/Professor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Associação/Professor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Associação/TesteCursoProfessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Associação/TesteCursoProfessor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ClasseInterface/Forma.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ClasseInterface/Forma.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ClasseInterface/Quadrado.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ClasseInterface/Quadrado.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ClasseInterface/TesteClasseInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ClasseInterface/TesteClasseInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ClasseInterface/Triangulo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ClasseInterface/Triangulo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Interface/Aluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Interface/Aluno.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Interface/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Interface/Pessoa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Interface/Professor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Interface/Professor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Interface/TesteInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Interface/TesteInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/atividadeNI1/Apartamento.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/atividadeNI1/Apartamento.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/atividadeNI1/Casa.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/atividadeNI1/Casa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/atividadeNI1/Imovel.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/atividadeNI1/Imovel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/atividadeNI1/Localizacao.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/atividadeNI1/Localizacao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/atividadeNI1/Testes.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/atividadeNI1/Testes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/Break.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/Break.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/Carro.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/Carro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/Carro2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/Carro2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/Celular.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/Celular.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/ClasseAbstrata/Forma.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/ClasseAbstrata/Forma.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/ClasseAbstrata/Quadrado.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/ClasseAbstrata/Quadrado.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/ClasseAbstrata/TestarForma.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/ClasseAbstrata/TestarForma.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/ClasseAbstrata/Triangulo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/ClasseAbstrata/Triangulo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/Combustivel.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/Combustivel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/Condicional.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/Condicional.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/CondicionalEncadeada.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/CondicionalEncadeada.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/CondicionalEncadeada2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/CondicionalEncadeada2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/Continue.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/Continue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/Curso.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/Curso.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/Funcao.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/Funcao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/Gatos.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/Gatos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/Heranca01_Diretor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/Heranca01_Diretor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/Heranca01_Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/Heranca01_Funcionario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/Heranca01_Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/Heranca01_Pessoa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/Heranca01_Professor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/Heranca01_Professor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/Heranca01_Testes.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/Heranca01_Testes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/ParImpar.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/ParImpar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/Pessoa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/Static/ComStatic.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/Static/ComStatic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/Static/SemStatic.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/Static/SemStatic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/Static/TesteCom.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/Static/TesteCom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/Static/TesteSem.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/Static/TesteSem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/Tabuada.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/Tabuada.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/TesteCarro.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/TesteCarro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/TesteCarro2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/TesteCarro2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/TesteCelular.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/TesteCelular.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/TesteTriangulo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/TesteTriangulo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/TesteTriangulo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/TesteTriangulo3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/Triangulo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/Triangulo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/Triangulo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/Triangulo2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/Triangulo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/Triangulo3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/Vetor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/Vetor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/Vetor2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/Vetor2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/While.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/While.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/exHeranca/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/exHeranca/Cliente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/exHeranca/Fornecedor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/exHeranca/Fornecedor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/exHeranca/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/exHeranca/Pessoa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/exHeranca/TesteHerenca.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/exHeranca/TesteHerenca.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/heranca/Aluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/heranca/Aluno.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/heranca/Diretor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/heranca/Diretor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/heranca/Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/heranca/Funcionario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/heranca/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/heranca/Pessoa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/heranca/Professor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/heranca/Professor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/heranca/TestarClasseAluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/heranca/TestarClasseAluno.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/heranca/TesteHeranca.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/heranca/TesteHeranca.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/principal.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/principal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/testeCurso.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/testeCurso.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/aulaPOO/testeGatos.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/aulaPOO/testeGatos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Abstrata01_Forma.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Abstrata01_Forma.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Abstrata01_Quadrado.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Abstrata01_Quadrado.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Abstrata01_Testes.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Abstrata01_Testes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Abstrata01_Triangulo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Abstrata01_Triangulo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Abstrata02_Analista.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Abstrata02_Analista.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Abstrata02_Empregado.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Abstrata02_Empregado.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Abstrata02_Programador.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Abstrata02_Programador.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Abstrata02_Testes.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Abstrata02_Testes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/AreaTriangulo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/AreaTriangulo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/CalculoMedioCombustivel.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/CalculoMedioCombustivel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Carro01.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Carro01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Carro01Teste.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Carro01Teste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Carro02.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Carro02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Carro02Teste.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Carro02Teste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Celular.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Celular.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/CelularTeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/CelularTeste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/CincoNumerosVetor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/CincoNumerosVetor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/FuncaoDivisivel.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/FuncaoDivisivel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/FuncaoImprimir.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/FuncaoImprimir.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/FuncaoMaiorNumero.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/FuncaoMaiorNumero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/FuncaoTresArgumentos.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/FuncaoTresArgumentos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Gato01.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Gato01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Gato01Teste.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Gato01Teste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Heranca01_Aluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Heranca01_Aluno.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Heranca01_Diretor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Heranca01_Diretor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Heranca01_Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Heranca01_Funcionario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Heranca01_Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Heranca01_Pessoa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Heranca01_Professor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Heranca01_Professor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Heranca01_TesteAluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Heranca01_TesteAluno.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Heranca01_Testes.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Heranca01_Testes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Heranca02_Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Heranca02_Cliente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Heranca02_Fornecedor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Heranca02_Fornecedor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Heranca02_Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Heranca02_Pessoa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Heranca02_Testes.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Heranca02_Testes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/IdadeDoEleitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/IdadeDoEleitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/ImprimirVinteVezes.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/ImprimirVinteVezes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Interface01_Aluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Interface01_Aluno.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Interface01_Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Interface01_Pessoa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Interface01_Professor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Interface01_Professor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Interface01_Testes.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Interface01_Testes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Interface02_Forma.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Interface02_Forma.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Interface02_Quadrado.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Interface02_Quadrado.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Interface02_Testes.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Interface02_Testes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Interface02_Triangulo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Interface02_Triangulo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/LerDezNumeros.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/LerDezNumeros.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/MenuDeOperacoes.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/MenuDeOperacoes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/NumeroEntre30E90.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/NumeroEntre30E90.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/ParImparContinue.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/ParImparContinue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/ParImparVetor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/ParImparVetor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/SomarNumeros.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/SomarNumeros.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/TabuadaComFor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/TabuadaComFor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/TabuadaComWhile.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/TabuadaComWhile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/TipoCombustivelCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/TipoCombustivelCase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/TipoCombustivelIF.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/TipoCombustivelIF.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Triangulo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Triangulo01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Triangulo01Teste.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Triangulo01Teste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Triangulo02.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Triangulo02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Triangulo02Teste.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Triangulo02Teste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/UsoArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/UsoArrayList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Associação/Endereco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Associação/Endereco.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2w3ptYmRpTDJ4ol941ny8cmu3pm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Associacao04_Testes.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.23774.435" />
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-IU-251.23774.435" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b51ddb0-05ca-4bfd-a2c5-43bcd1a854f5" name="Changes" comment="" />
+      <created>1745280329939</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745280329939</updated>
+      <workItem from="1745280331229" duration="375000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
