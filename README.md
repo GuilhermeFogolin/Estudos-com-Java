@@ -64,7 +64,7 @@ Implementação e compreensão das estruturas básicas que **organizam dados de 
 
 📕 [JavaSegundaFormacao](./JavaSegundaFormacao): Apronfundamento da linguagem através do curso **Java: aplicando a Orientação a Objetos** também da Alura.
 
-🧑‍🏫 [JavaUdemy](./JavaUdemy): Primeiros contatos com Java com referências no curso **Algoritmos e Lógica de Programação" da Udemy.
+🧑‍🏫 [JavaUdemy](./JavaUdemy): Primeiros contatos com Java com referências no curso **Algoritmos e Lógica de Programação** da Udemy.
 
 ---
 
