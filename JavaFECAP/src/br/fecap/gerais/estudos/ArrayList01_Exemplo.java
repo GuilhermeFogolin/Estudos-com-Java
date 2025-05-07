@@ -2,7 +2,7 @@ package br.fecap.gerais.estudos;
 
 import java.util.ArrayList;
 
-public class Lista01_Exemplo {
+public class ArrayList01_Exemplo {
 
     public static void main(String[] args) {
 
