@@ -10,15 +10,15 @@ public class Lista01_Exemplo {
         ArrayList<String> lista = new ArrayList<>();
 
         // Adicionando elementos à lista
-        lista.add("banana");
-        lista.add("maça");
-        lista.add("pera");
+        lista.add("Banana");
+        lista.add("Maça");
+        lista.add("Pera");
 
         // Acessando os elementos da lita
         System.out.println("Elemento da posição 01: " + lista.get(1));
 
         // Iterando sobre os elementos da lista
-        System.out.println("Elementos da lista: ");
+        System.out.println("\nElementos da lista: ");
         for(String elemento : lista) {
             System.out.println(elemento);
         }
