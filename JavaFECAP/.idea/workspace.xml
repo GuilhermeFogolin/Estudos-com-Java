@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b51ddb0-05ca-4bfd-a2c5-43bcd1a854f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/Pilha01_Exemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/Pilha02_Exemplo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +38,7 @@
     "Application.Lista01_Exemplo.executor": "Run",
     "Application.Lista02_Exemplo.executor": "Run",
     "Application.Pilha01_Exemplo.executor": "Run",
+    "Application.Pilha02_Exemplo.executor": "Run",
     "Application.Queue01_Exemplo.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -52,6 +53,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "inlay.hints",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -75,7 +77,7 @@
       <workItem from="1745965007712" duration="741000" />
       <workItem from="1746569364598" duration="1053000" />
       <workItem from="1746627637122" duration="1763000" />
-      <workItem from="1746728266685" duration="329000" />
+      <workItem from="1746728266685" duration="1187000" />
     </task>
     <servers />
   </component>
