@@ -32,7 +32,7 @@ public static arvoreBinaria01Exemplo inserir(arvoreBinaria01Exemplo raiz, int va
     return raiz;
 }
 
-// Mé_todo para imprimir os valores da árvore em ordem
+// Mé_todo para imprimir os valores da árvore em ordem - Fazendo isso de modo recursivo
 public static void imprimirEmOrdem(arvoreBinaria01Exemplo raiz) {
     if(raiz != null) {
         imprimirEmOrdem(raiz.esquerda);
