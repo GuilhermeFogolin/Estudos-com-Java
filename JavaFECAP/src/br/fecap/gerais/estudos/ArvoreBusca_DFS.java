@@ -2,7 +2,7 @@ package br.fecap.gerais.estudos;
 
 import java.util.Stack;
 
-public class DFS01_ArvoreBusca {
+public class ArvoreBusca_DFS {
 
     static class TreeNode {
 
