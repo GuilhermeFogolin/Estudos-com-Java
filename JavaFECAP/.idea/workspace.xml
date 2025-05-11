@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b51ddb0-05ca-4bfd-a2c5-43bcd1a854f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/ArvoreBinaria02_BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/ArvoreBinaria02_Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/ArvoreBinaria02_Testes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/DFS01_ArvoreBusca.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ArvoreBinaria01_Exemplo$arvoreBinaria01Exemplo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ArvoreBinaria01_Exemplo$arvoreBinaria01Exemplo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/ArvoreBinaria01_Exemplo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ArvoreBinaria01_Exemplo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/ArvoreBinaria01_Exemplo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/ArvoreBinaria01_Exemplo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +37,7 @@
     "Application.ArvoreBinaria01_Exemplo.executor": "Run",
     "Application.ArvoreBinaria02_Testes.executor": "Run",
     "Application.Associacao04_Testes.executor": "Run",
+    "Application.DFS01_ArvoreBusca.executor": "Run",
     "Application.Lista01_Exemplo.executor": "Run",
     "Application.Lista02_Exemplo.executor": "Run",
     "Application.Pilha01_Exemplo.executor": "Run",
@@ -87,7 +83,7 @@
       <workItem from="1746627637122" duration="1763000" />
       <workItem from="1746728266685" duration="2165000" />
       <workItem from="1746883434757" duration="15000" />
-      <workItem from="1746970248733" duration="4617000" />
+      <workItem from="1746970248733" duration="5883000" />
     </task>
     <servers />
   </component>
