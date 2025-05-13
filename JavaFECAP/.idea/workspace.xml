@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b51ddb0-05ca-4bfd-a2c5-43bcd1a854f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/ArvoreBusca_BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/HashMap01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/DFS01_ArvoreBusca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/ArvoreBusca_DFS.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +39,7 @@
     "Application.ArvoreBusca_BFS.executor": "Run",
     "Application.Associacao04_Testes.executor": "Run",
     "Application.DFS01_ArvoreBusca.executor": "Run",
+    "Application.HashMap01.executor": "Run",
     "Application.Lista01_Exemplo.executor": "Run",
     "Application.Lista02_Exemplo.executor": "Run",
     "Application.Pilha01_Exemplo.executor": "Run",
@@ -85,7 +85,9 @@
       <workItem from="1746627637122" duration="1763000" />
       <workItem from="1746728266685" duration="2165000" />
       <workItem from="1746883434757" duration="15000" />
-      <workItem from="1746970248733" duration="7149000" />
+      <workItem from="1746970248733" duration="7808000" />
+      <workItem from="1746990101901" duration="9000" />
+      <workItem from="1747174299783" duration="990000" />
     </task>
     <servers />
   </component>
