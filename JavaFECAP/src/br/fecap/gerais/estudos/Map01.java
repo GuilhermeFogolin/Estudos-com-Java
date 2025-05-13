@@ -4,12 +4,10 @@ import java.util.*;
 
 public class Map01 {
 
-    public class Grafo {
-
         private Map<String, List<String>> adjacencias;
 
-        public Grafo() {
-            this.adjacencias = adjacencias;
+        public Map01() {
+            this.adjacencias = new HashMap<>();
         }
 
         // Adiciona uma conexão entre dois usuários
@@ -31,5 +29,4 @@ public class Map01 {
 
             return adjacencias.getOrDefault(user, new ArrayList<>());
         }
-    }
 }
