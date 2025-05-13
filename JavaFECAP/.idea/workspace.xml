@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b51ddb0-05ca-4bfd-a2c5-43bcd1a854f5" name="Changes" comment="" />
+    <list default="true" id="9b51ddb0-05ca-4bfd-a2c5-43bcd1a854f5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/GrafoDirecionado01_Testes.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +38,7 @@
     "Application.ArvoreBusca_BFS.executor": "Run",
     "Application.Associacao04_Testes.executor": "Run",
     "Application.DFS01_ArvoreBusca.executor": "Run",
+    "Application.GrafoDirecionado01_Testes.executor": "Run",
     "Application.HashMap01.executor": "Run",
     "Application.Lista01_Exemplo.executor": "Run",
     "Application.Lista02_Exemplo.executor": "Run",
@@ -85,7 +88,7 @@
       <workItem from="1746883434757" duration="15000" />
       <workItem from="1746970248733" duration="7808000" />
       <workItem from="1746990101901" duration="9000" />
-      <workItem from="1747174299783" duration="2929000" />
+      <workItem from="1747174299783" duration="3398000" />
     </task>
     <servers />
   </component>
