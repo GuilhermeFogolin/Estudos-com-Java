@@ -17,7 +17,7 @@ public class Map01 {
             // Adiciona o user02 à lista de amigos do user01 e vice-versa
 
             adjacencias.computeIfAbsent(user01, k -> new ArrayList<>()).add(user02);
-            adjacencias.computeIfAbsent(user01, k -> new ArrayList<>()).add(user01);
+            adjacencias.computeIfAbsent(user02, k -> new ArrayList<>()).add(user01);
         }
 
         // Retorna o valor associado a uma chave específica
