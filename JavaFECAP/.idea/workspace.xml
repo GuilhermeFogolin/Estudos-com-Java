@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b51ddb0-05ca-4bfd-a2c5-43bcd1a854f5" name="Changes" comment="" />
+    <list default="true" id="9b51ddb0-05ca-4bfd-a2c5-43bcd1a854f5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/PO_01_Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/PO_01_Filme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/PO_01_Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/PO_01_IReservavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/PO_01_Ingresso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/PO_01_Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/PO_01_Sala.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/PO_01_Sessao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/PO_01_Testes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -42,6 +54,7 @@
     "Application.Lista01_Exemplo.executor": "Run",
     "Application.Lista02_Exemplo.executor": "Run",
     "Application.Map01_Testes.executor": "Run",
+    "Application.PO_01_Testes.executor": "Run",
     "Application.Pilha01_Exemplo.executor": "Run",
     "Application.Pilha02_Exemplo.executor": "Run",
     "Application.Pilha03_Exemplo.executor": "Run",
@@ -89,7 +102,8 @@
       <workItem from="1746970248733" duration="7808000" />
       <workItem from="1746990101901" duration="9000" />
       <workItem from="1747174299783" duration="3398000" />
-      <workItem from="1748094003769" duration="1498000" />
+      <workItem from="1748094003769" duration="3281000" />
+      <workItem from="1748107405398" duration="5203000" />
     </task>
     <servers />
   </component>
