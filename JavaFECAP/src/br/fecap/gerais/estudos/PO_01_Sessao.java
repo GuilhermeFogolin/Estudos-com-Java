@@ -28,6 +28,7 @@ public class PO_01_Sessao implements PO_01_IReservavel {
         this.horario = horario;
         this.sala = sala;
         this.filme = filme;
+        sala.addSessao(this);
     }
 
     // Interface
