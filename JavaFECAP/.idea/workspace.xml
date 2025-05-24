@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b51ddb0-05ca-4bfd-a2c5-43bcd1a854f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/GrafoDirecionado01_Testes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/HashMap01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/HashMap01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +38,7 @@
     "Application.ArvoreBinaria02_Testes.executor": "Run",
     "Application.ArvoreBusca_BFS.executor": "Run",
     "Application.Associacao04_Testes.executor": "Run",
+    "Application.Associacao05_Testes.executor": "Run",
     "Application.DFS01_ArvoreBusca.executor": "Run",
     "Application.GrafoDirecionado01_Testes.executor": "Run",
     "Application.HashMap01.executor": "Run",
@@ -52,6 +54,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/guilhermefogolin/Projetos/Estudos-com-Java/JavaFECAP",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -60,15 +63,15 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "configurable.group.build",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.23774.435" />
-        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-IU-251.23774.435" />
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.25410.129" />
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-IU-251.25410.129" />
       </set>
     </attachedChunks>
   </component>
@@ -89,6 +92,7 @@
       <workItem from="1746970248733" duration="7808000" />
       <workItem from="1746990101901" duration="9000" />
       <workItem from="1747174299783" duration="3398000" />
+      <workItem from="1748094003769" duration="1146000" />
     </task>
     <servers />
   </component>
