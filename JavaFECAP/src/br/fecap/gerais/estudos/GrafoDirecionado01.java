@@ -11,6 +11,7 @@ public class GrafoDirecionado01 {
     }
 
     // Adiciona uma aresta direcionada de "de" para "para"
+    // Nesse contexto, um user segue o outro. Mas o "outro" não precisa seguir o "user"
 
     public void adicionarAresta(String de, String para) {
         adjacencias.computeIfAbsent(de, k -> new ArrayList<>()).add(para);
