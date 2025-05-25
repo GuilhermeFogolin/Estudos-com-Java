@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b51ddb0-05ca-4bfd-a2c5-43bcd1a854f5" name="Changes" comment="Sistema de imobiliária: Classe para testes">
-      <change afterPath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/Recursao03_PrintNumInteiros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/Recursao04_SomaDigitos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/Recursao01_Recursivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/Recursao01_Recursivo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Recursao03_PrintNumInteiros.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Recursao03_PrintNumInteiros.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +56,7 @@
     "Application.Pilha03_Exemplo.executor": "Run",
     "Application.Queue01_Exemplo.executor": "Run",
     "Application.Recursao03_PrintNumInteiros.executor": "Run",
+    "Application.Recursao04_SomaDigitos.executor": "Run",
     "Application.TestesDispositivoEletronico.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -103,7 +104,7 @@
       <workItem from="1748094003769" duration="3281000" />
       <workItem from="1748107405398" duration="11217000" />
       <workItem from="1748178343600" duration="3564000" />
-      <workItem from="1748184329566" duration="7045000" />
+      <workItem from="1748184329566" duration="7947000" />
     </task>
     <task id="LOCAL-00001" summary="Sistema de cinema: Cliente">
       <option name="closed" value="true" />
