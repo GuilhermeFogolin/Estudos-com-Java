@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b51ddb0-05ca-4bfd-a2c5-43bcd1a854f5" name="Changes" comment="Sistema de eletrônicos: Ajustando nomes das classes">
-      <change afterPath="$PROJECT_DIR$/src/estudosProvaOficial/PO_04_Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudosProvaOficial/PO_04_FuncionarioAdm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudosProvaOficial/PO_04_IAvaliavel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudosProvaOficial/PO_04_Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudosProvaOficial/PO_04_Professor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudosProvaOficial/PO_04_Testes.java" afterDir="false" />
+    <list default="true" id="9b51ddb0-05ca-4bfd-a2c5-43bcd1a854f5" name="Changes" comment="Sistema de escola: Classe de testes">
+      <change afterPath="$PROJECT_DIR$/src/estudosProvaOficial/PO_05_Apartamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudosProvaOficial/PO_05_Casa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudosProvaOficial/PO_05_Imovel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudosProvaOficial/PO_05_Localizacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudosProvaOficial/PO_05_Manutencao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudosProvaOficial/PO_05_Testes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +54,7 @@
     "Application.PO_01_Testes.executor": "Run",
     "Application.PO_02_Teste.executor": "Run",
     "Application.PO_04_Testes.executor": "Run",
+    "Application.PO_05_Testes.executor": "Run",
     "Application.Pilha01_Exemplo.executor": "Run",
     "Application.Pilha02_Exemplo.executor": "Run",
     "Application.Pilha03_Exemplo.executor": "Run",
@@ -105,7 +106,7 @@
       <workItem from="1748094003769" duration="3281000" />
       <workItem from="1748107405398" duration="11217000" />
       <workItem from="1748178343600" duration="3564000" />
-      <workItem from="1748184329566" duration="2531000" />
+      <workItem from="1748184329566" duration="4158000" />
     </task>
     <task id="LOCAL-00001" summary="Sistema de cinema: Cliente">
       <option name="closed" value="true" />
@@ -267,14 +268,61 @@
       <option name="project" value="LOCAL" />
       <updated>1748185027363</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Sistema de escola: Interface IAvaliavel">
+      <option name="closed" value="true" />
+      <created>1748195962714</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1748195962714</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Sistema de escola: Classe Pessoa">
+      <option name="closed" value="true" />
+      <created>1748195978896</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1748195978896</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Sistema de escola: Classe Aluno">
+      <option name="closed" value="true" />
+      <created>1748195989988</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1748195989988</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Sistema de escola: Classe Professor">
+      <option name="closed" value="true" />
+      <created>1748195999636</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1748195999636</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Sistema de escola: Classe Funcionario">
+      <option name="closed" value="true" />
+      <created>1748196017833</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1748196017833</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Sistema de escola: Classe de testes">
+      <option name="closed" value="true" />
+      <created>1748196035718</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1748196035718</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Sistema de cinema: Cliente" />
     <MESSAGE value="Sistema de cinema: Filme" />
     <MESSAGE value="Sistema de cinema: Funcionários" />
     <MESSAGE value="Sistema de cinema: Ingresso" />
@@ -294,6 +342,12 @@
     <MESSAGE value="Sistema de cinema: Ajustando package" />
     <MESSAGE value="Sistema de biblioteca: Ajustando package" />
     <MESSAGE value="Sistema de eletrônicos: Ajustando nomes das classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sistema de eletrônicos: Ajustando nomes das classes" />
+    <MESSAGE value="Sistema de escola: Interface IAvaliavel" />
+    <MESSAGE value="Sistema de escola: Classe Pessoa" />
+    <MESSAGE value="Sistema de escola: Classe Aluno" />
+    <MESSAGE value="Sistema de escola: Classe Professor" />
+    <MESSAGE value="Sistema de escola: Classe Funcionario" />
+    <MESSAGE value="Sistema de escola: Classe de testes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sistema de escola: Classe de testes" />
   </component>
 </project>
