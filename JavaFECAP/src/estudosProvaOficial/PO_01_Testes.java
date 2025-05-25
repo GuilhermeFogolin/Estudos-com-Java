@@ -1,6 +1,5 @@
-package br.fecap.gerais.estudos;
+package estudosProvaOficial;
 
-import java.util.Enumeration;
 import java.util.Scanner;
 
 public class PO_01_Testes {

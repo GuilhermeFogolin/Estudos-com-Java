@@ -1,4 +1,4 @@
-package br.fecap.gerais.estudos;
+package estudosProvaOficial;
 
 public interface PO_01_IReservavel {
 

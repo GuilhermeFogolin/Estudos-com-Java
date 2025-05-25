@@ -1,4 +1,4 @@
-package br.fecap.gerais.estudos;
+package estudosProvaOficial;
 
 public class PO_01_Cliente extends PO_01_Pessoa {
 

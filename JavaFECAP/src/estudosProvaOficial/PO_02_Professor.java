@@ -1,4 +1,4 @@
-package br.fecap.gerais.estudos;
+package estudosProvaOficial;
 
 public class PO_02_Professor extends PO_02_Usuario {
 

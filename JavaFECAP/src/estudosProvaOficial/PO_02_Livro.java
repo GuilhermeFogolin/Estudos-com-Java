@@ -1,4 +1,4 @@
-package br.fecap.gerais.estudos;
+package estudosProvaOficial;
 
 public class PO_02_Livro implements PO_02_Emprestavel {
 

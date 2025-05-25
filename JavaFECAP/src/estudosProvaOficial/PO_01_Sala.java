@@ -1,4 +1,4 @@
-package br.fecap.gerais.estudos;
+package estudosProvaOficial;
 
 import java.util.ArrayList;
 
