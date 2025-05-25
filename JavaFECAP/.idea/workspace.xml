@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b51ddb0-05ca-4bfd-a2c5-43bcd1a854f5" name="Changes" comment="Sistema de biblioteca: Ajustes">
+    <list default="true" id="9b51ddb0-05ca-4bfd-a2c5-43bcd1a854f5" name="Changes" comment="Sistema de eletrônicos: Ajustando nomes das classes">
+      <change afterPath="$PROJECT_DIR$/src/estudosProvaOficial/PO_04_Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudosProvaOficial/PO_04_FuncionarioAdm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudosProvaOficial/PO_04_IAvaliavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudosProvaOficial/PO_04_Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudosProvaOficial/PO_04_Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estudosProvaOficial/PO_04_Testes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,44 +37,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ArrayList03_Exemplo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArvoreBinaria01_Exemplo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArvoreBinaria02_Testes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArvoreBusca_BFS.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Associacao04_Testes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Associacao05_Testes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DFS01_ArvoreBusca.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GrafoDirecionado01_Testes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HashMap01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lista01_Exemplo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lista02_Exemplo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Map01_Testes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PO_01_Testes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PO_02_Teste.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pilha01_Exemplo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pilha02_Exemplo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pilha03_Exemplo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Queue01_Exemplo.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/guilhermefogolin/Projetos/Estudos-com-Java/JavaFECAP&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArrayList03_Exemplo.executor": "Run",
+    "Application.ArvoreBinaria01_Exemplo.executor": "Run",
+    "Application.ArvoreBinaria02_Testes.executor": "Run",
+    "Application.ArvoreBusca_BFS.executor": "Run",
+    "Application.Associacao04_Testes.executor": "Run",
+    "Application.Associacao05_Testes.executor": "Run",
+    "Application.DFS01_ArvoreBusca.executor": "Run",
+    "Application.GrafoDirecionado01_Testes.executor": "Run",
+    "Application.HashMap01.executor": "Run",
+    "Application.Lista01_Exemplo.executor": "Run",
+    "Application.Lista02_Exemplo.executor": "Run",
+    "Application.Map01_Testes.executor": "Run",
+    "Application.PO_01_Testes.executor": "Run",
+    "Application.PO_02_Teste.executor": "Run",
+    "Application.PO_04_Testes.executor": "Run",
+    "Application.Pilha01_Exemplo.executor": "Run",
+    "Application.Pilha02_Exemplo.executor": "Run",
+    "Application.Pilha03_Exemplo.executor": "Run",
+    "Application.Queue01_Exemplo.executor": "Run",
+    "Application.TestesDispositivoEletronico.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/guilhermefogolin/Projetos/Estudos-com-Java/JavaFECAP",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -96,7 +104,8 @@
       <workItem from="1747174299783" duration="3398000" />
       <workItem from="1748094003769" duration="3281000" />
       <workItem from="1748107405398" duration="11217000" />
-      <workItem from="1748178343600" duration="169000" />
+      <workItem from="1748178343600" duration="3564000" />
+      <workItem from="1748184329566" duration="2531000" />
     </task>
     <task id="LOCAL-00001" summary="Sistema de cinema: Cliente">
       <option name="closed" value="true" />
@@ -234,7 +243,31 @@
       <option name="project" value="LOCAL" />
       <updated>1748133944277</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Sistema de cinema: Ajustando package">
+      <option name="closed" value="true" />
+      <created>1748184960056</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1748184960056</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Sistema de biblioteca: Ajustando package">
+      <option name="closed" value="true" />
+      <created>1748184995047</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1748184995047</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Sistema de eletrônicos: Ajustando nomes das classes">
+      <option name="closed" value="true" />
+      <created>1748185027363</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1748185027363</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,6 +291,9 @@
     <MESSAGE value="Sistema de biblioteca: Usuario" />
     <MESSAGE value="Sistema de biblioteca: Testes de registros" />
     <MESSAGE value="Sistema de biblioteca: Ajustes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sistema de biblioteca: Ajustes" />
+    <MESSAGE value="Sistema de cinema: Ajustando package" />
+    <MESSAGE value="Sistema de biblioteca: Ajustando package" />
+    <MESSAGE value="Sistema de eletrônicos: Ajustando nomes das classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sistema de eletrônicos: Ajustando nomes das classes" />
   </component>
 </project>
