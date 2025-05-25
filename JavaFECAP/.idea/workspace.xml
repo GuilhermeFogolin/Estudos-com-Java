@@ -4,17 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b51ddb0-05ca-4bfd-a2c5-43bcd1a854f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/PO_01_Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/PO_01_Filme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/PO_01_Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/PO_01_IReservavel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/PO_01_Ingresso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/PO_01_Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/PO_01_Sala.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/PO_01_Sessao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/PO_01_Testes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9b51ddb0-05ca-4bfd-a2c5-43bcd1a854f5" name="Changes" comment="Sistema de cinema: Testes de entrada e saída de dados">
+      <change afterPath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/PO_02_Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/PO_02_Emprestavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/PO_02_Emprestimo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/PO_02_Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/PO_02_Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/PO_02_Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/PO_02_Usuario.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +52,7 @@
     "Application.Lista02_Exemplo.executor": "Run",
     "Application.Map01_Testes.executor": "Run",
     "Application.PO_01_Testes.executor": "Run",
+    "Application.PO_02_Teste.executor": "Run",
     "Application.Pilha01_Exemplo.executor": "Run",
     "Application.Pilha02_Exemplo.executor": "Run",
     "Application.Pilha03_Exemplo.executor": "Run",
@@ -103,11 +101,96 @@
       <workItem from="1746990101901" duration="9000" />
       <workItem from="1747174299783" duration="3398000" />
       <workItem from="1748094003769" duration="3281000" />
-      <workItem from="1748107405398" duration="5203000" />
+      <workItem from="1748107405398" duration="10681000" />
     </task>
+    <task id="LOCAL-00001" summary="Sistema de cinema: Cliente">
+      <option name="closed" value="true" />
+      <created>1748113912604</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1748113912604</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Sistema de cinema: Filme">
+      <option name="closed" value="true" />
+      <created>1748113960287</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1748113960287</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Sistema de cinema: Funcionários">
+      <option name="closed" value="true" />
+      <created>1748113985991</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1748113985991</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Sistema de cinema: Ingresso">
+      <option name="closed" value="true" />
+      <created>1748114011961</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1748114011961</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Sistema de cinema: Interface IReservavel">
+      <option name="closed" value="true" />
+      <created>1748114031005</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1748114031005</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Sistema de cinema: Classe abstrata Pessoa">
+      <option name="closed" value="true" />
+      <created>1748114045445</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1748114045445</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Sistema de cinema: Sala">
+      <option name="closed" value="true" />
+      <created>1748114052131</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1748114052131</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Sistema de cinema: Sessão">
+      <option name="closed" value="true" />
+      <created>1748114059492</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1748114059492</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Sistema de cinema: Testes de entrada e saída de dados">
+      <option name="closed" value="true" />
+      <created>1748114078752</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1748114078752</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Sistema de cinema: Cliente" />
+    <MESSAGE value="Sistema de cinema: Filme" />
+    <MESSAGE value="Sistema de cinema: Funcionários" />
+    <MESSAGE value="Sistema de cinema: Ingresso" />
+    <MESSAGE value="Sistema de cinema: Interface IReservavel" />
+    <MESSAGE value="Sistema de cinema: Classe abstrata Pessoa" />
+    <MESSAGE value="Sistema de cinema: Sala" />
+    <MESSAGE value="Sistema de cinema: Sessão" />
+    <MESSAGE value="Sistema de cinema: Testes de entrada e saída de dados" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sistema de cinema: Testes de entrada e saída de dados" />
   </component>
 </project>
