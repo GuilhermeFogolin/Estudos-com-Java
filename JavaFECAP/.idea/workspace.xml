@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b51ddb0-05ca-4bfd-a2c5-43bcd1a854f5" name="Changes" comment="Sistema de escola: Classe de testes">
-      <change afterPath="$PROJECT_DIR$/src/estudosProvaOficial/PO_05_Apartamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudosProvaOficial/PO_05_Casa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudosProvaOficial/PO_05_Imovel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudosProvaOficial/PO_05_Localizacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudosProvaOficial/PO_05_Manutencao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estudosProvaOficial/PO_05_Testes.java" afterDir="false" />
+    <list default="true" id="9b51ddb0-05ca-4bfd-a2c5-43bcd1a854f5" name="Changes" comment="Sistema de imobiliária: Classe para testes">
+      <change afterPath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/Recursao03_PrintNumInteiros.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/Recursao01_Recursivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/Recursao01_Recursivo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +55,7 @@
     "Application.Pilha02_Exemplo.executor": "Run",
     "Application.Pilha03_Exemplo.executor": "Run",
     "Application.Queue01_Exemplo.executor": "Run",
+    "Application.Recursao03_PrintNumInteiros.executor": "Run",
     "Application.TestesDispositivoEletronico.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -74,7 +71,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -106,7 +103,7 @@
       <workItem from="1748094003769" duration="3281000" />
       <workItem from="1748107405398" duration="11217000" />
       <workItem from="1748178343600" duration="3564000" />
-      <workItem from="1748184329566" duration="4158000" />
+      <workItem from="1748184329566" duration="7045000" />
     </task>
     <task id="LOCAL-00001" summary="Sistema de cinema: Cliente">
       <option name="closed" value="true" />
@@ -316,19 +313,61 @@
       <option name="project" value="LOCAL" />
       <updated>1748196035718</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Sistema de imobiliária: Classe abstrata Imovel">
+      <option name="closed" value="true" />
+      <created>1748197671041</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1748197671041</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Sistema de imobiliária: Classe Localizacao">
+      <option name="closed" value="true" />
+      <created>1748197694246</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1748197694246</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Sistema de imobiliária: Interface Manutencao">
+      <option name="closed" value="true" />
+      <created>1748197713593</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1748197713593</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Sistema de imobiliária: Classe Apartamento">
+      <option name="closed" value="true" />
+      <created>1748197737694</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1748197737694</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Sistema de imobiliária: Classe Casa">
+      <option name="closed" value="true" />
+      <created>1748197748222</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1748197748222</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Sistema de imobiliária: Classe para testes">
+      <option name="closed" value="true" />
+      <created>1748197760564</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1748197760564</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Sistema de cinema: Filme" />
-    <MESSAGE value="Sistema de cinema: Funcionários" />
-    <MESSAGE value="Sistema de cinema: Ingresso" />
-    <MESSAGE value="Sistema de cinema: Interface IReservavel" />
-    <MESSAGE value="Sistema de cinema: Classe abstrata Pessoa" />
-    <MESSAGE value="Sistema de cinema: Sala" />
     <MESSAGE value="Sistema de cinema: Sessão" />
     <MESSAGE value="Sistema de cinema: Testes de entrada e saída de dados" />
     <MESSAGE value="Sistema de biblioteca: Aluno" />
@@ -348,6 +387,12 @@
     <MESSAGE value="Sistema de escola: Classe Professor" />
     <MESSAGE value="Sistema de escola: Classe Funcionario" />
     <MESSAGE value="Sistema de escola: Classe de testes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sistema de escola: Classe de testes" />
+    <MESSAGE value="Sistema de imobiliária: Classe abstrata Imovel" />
+    <MESSAGE value="Sistema de imobiliária: Classe Localizacao" />
+    <MESSAGE value="Sistema de imobiliária: Interface Manutencao" />
+    <MESSAGE value="Sistema de imobiliária: Classe Apartamento" />
+    <MESSAGE value="Sistema de imobiliária: Classe Casa" />
+    <MESSAGE value="Sistema de imobiliária: Classe para testes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sistema de imobiliária: Classe para testes" />
   </component>
 </project>

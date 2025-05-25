@@ -1,6 +1,5 @@
 package br.fecap.gerais.estudos;
 
-
 public class Recursao01_Recursivo {
 
 	public static void main(String[] args) {
