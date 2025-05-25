@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b51ddb0-05ca-4bfd-a2c5-43bcd1a854f5" name="Changes" comment="Sistema de imobiliária: Classe para testes">
-      <change afterPath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/Recursao04_SomaDigitos.java" afterDir="false" />
+    <list default="true" id="9b51ddb0-05ca-4bfd-a2c5-43bcd1a854f5" name="Changes" comment="Recursão: soma dos dígitos de um número">
+      <change afterPath="$PROJECT_DIR$/src/br/fecap/gerais/estudos/Recursao05_Fibonacci.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Recursao03_PrintNumInteiros.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/br/fecap/gerais/estudos/Recursao03_PrintNumInteiros.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +56,7 @@
     "Application.Queue01_Exemplo.executor": "Run",
     "Application.Recursao03_PrintNumInteiros.executor": "Run",
     "Application.Recursao04_SomaDigitos.executor": "Run",
+    "Application.Recursao05_Fibonacci.executor": "Run",
     "Application.TestesDispositivoEletronico.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -104,7 +104,7 @@
       <workItem from="1748094003769" duration="3281000" />
       <workItem from="1748107405398" duration="11217000" />
       <workItem from="1748178343600" duration="3564000" />
-      <workItem from="1748184329566" duration="7947000" />
+      <workItem from="1748184329566" duration="8533000" />
     </task>
     <task id="LOCAL-00001" summary="Sistema de cinema: Cliente">
       <option name="closed" value="true" />
@@ -362,14 +362,21 @@
       <option name="project" value="LOCAL" />
       <updated>1748197760564</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Recursão: soma dos dígitos de um número">
+      <option name="closed" value="true" />
+      <created>1748203326249</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1748203326249</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Sistema de cinema: Sessão" />
     <MESSAGE value="Sistema de cinema: Testes de entrada e saída de dados" />
     <MESSAGE value="Sistema de biblioteca: Aluno" />
     <MESSAGE value="Sistema de biblioteca: Interface Emprestavel" />
@@ -394,6 +401,7 @@
     <MESSAGE value="Sistema de imobiliária: Classe Apartamento" />
     <MESSAGE value="Sistema de imobiliária: Classe Casa" />
     <MESSAGE value="Sistema de imobiliária: Classe para testes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sistema de imobiliária: Classe para testes" />
+    <MESSAGE value="Recursão: soma dos dígitos de um número" />
+    <option name="LAST_COMMIT_MESSAGE" value="Recursão: soma dos dígitos de um número" />
   </component>
 </project>
