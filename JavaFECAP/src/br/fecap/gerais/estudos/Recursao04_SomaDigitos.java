@@ -11,7 +11,7 @@ public class Recursao04_SomaDigitos {
         System.out.print("Digite um número inteiro: ");
         int n = sc.nextInt();
 
-        System.out.printf("\nA soma dos dígitos de %d vale %d", n, somaDigitos(n));
+        System.out.printf("\nA soma dos dígitos de %d vale %d!", n, somaDigitos(n));
 
     }
 
