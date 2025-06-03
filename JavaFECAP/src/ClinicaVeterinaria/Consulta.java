@@ -1,7 +1,5 @@
 package ClinicaVeterinaria;
 
-import br.fecap.gerais.estudos.Agregacao01_Professor;
-
 import java.util.ArrayList;
 
 public class Consulta {
