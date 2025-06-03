@@ -1,6 +1,6 @@
 package ClinicaVeterinaria;
 
-public class Animal {
+public abstract class Animal {
 
     // Atributos
 
