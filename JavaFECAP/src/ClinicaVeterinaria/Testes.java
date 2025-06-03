@@ -13,5 +13,6 @@ public class Testes {
         con.addProcedimento(pro1);
         con.addProcedimento(pro2);
         con.print();
+        cachorro.agendarConsulta(vet, "02-02-2025 11H30");
     }
 }
