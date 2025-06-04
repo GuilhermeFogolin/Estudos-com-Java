@@ -17,6 +17,13 @@ public class Engine {
 
     public void setHorsepower(int horsepower) { this.horsepower = horsepower; }
 
+    // Construtor
+
+    public Engine(String t, int hp) {
+        this.type = t;
+        this.horsepower = hp;
+    }
+
     // Métodos
 
     public void start() {
