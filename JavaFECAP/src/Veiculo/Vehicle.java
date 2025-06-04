@@ -52,6 +52,6 @@ public abstract class Vehicle implements Drivable {
 
     @Override
     public void drive() {
-        System.out.printf("O veículo %s está pronto para ser dirigido!", getModel());
+        System.out.printf("\nO veículo %s está pronto para ser dirigido!", getModel());
     }
 }

@@ -23,12 +23,12 @@ public class Motorcycle extends Vehicle {
 
     @Override
     public void startEngine() {
-        System.out.printf("O motor do tipo %s está ligado no carro %s!", super.getEngine().getType(), super.getModel());
+        System.out.printf("\nO motor do tipo %s está ligado na moto %s!", super.getEngine().getType(), super.getModel());
     }
 
     @Override
     public void stopEngine() {
-        System.out.printf("O motor do tipo %s está desligado no carro %s!", super.getEngine().getType(), super.getModel());
+        System.out.printf("\nO motor do tipo %s está desligado na moto %s!", super.getEngine().getType(), super.getModel());
     }
 
     // Informações

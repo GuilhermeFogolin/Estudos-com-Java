@@ -4,13 +4,13 @@ public class Car extends Vehicle{
 
     // Atributos
 
-    int numDoors;
+    private int numDoors;
 
     // Acesso
 
-    public int getNumDoors() { return numDoors; }
+    private int getNumDoors() { return numDoors; }
 
-    public void setNumDoors(int numDoors) { this.numDoors = numDoors; }
+    private void setNumDoors(int numDoors) { this.numDoors = numDoors; }
 
     // Construtor
 
@@ -23,11 +23,11 @@ public class Car extends Vehicle{
 
     @Override
     public void startEngine() {
-        System.out.printf("O motor do tipo %s está ligado no carro %s!", super.getEngine().getType(), super.getModel());
+        System.out.printf("\nO motor do tipo %s está ligado no carro %s!", super.getEngine().getType(), super.getModel());
     }
 
     @Override
     public void stopEngine() {
-        System.out.printf("O motor do tipo %s está desligado no carro %s!", super.getEngine().getType(), super.getModel());
+        System.out.printf("\nO motor do tipo %s está desligado no carro %s!", super.getEngine().getType(), super.getModel());
     }
 }
